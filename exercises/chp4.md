@@ -26,7 +26,7 @@ for i in range(1, 51):
 
 print("합:", total)
 
-4. 연습문제 4.3을 while문으로 해결하세요.
+3. 연습문제 4.3을 while문으로 해결하세요.
 code:
 total = 0
 i = 1

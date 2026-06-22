@@ -11,3 +11,6 @@ Repository for code and exercises
 
 ##8장 실습 파일
 -[8장-link](https://wokwi.com/projects/462414814904273921)
+
+##9장 
+- [DHT22-link] (https://wokwi.com/projects/462414814904273921)

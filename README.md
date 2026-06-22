@@ -14,3 +14,5 @@ Repository for code and exercises
 
 ##9장 
 - [DHT22-link] (https://wokwi.com/projects/462414814904273921)
+- [BH1750-link](https://wokwi.com/projects/467506786694396929)
+- [DS18B20-link](https://wokwi.com/projects/467506901515603969)
